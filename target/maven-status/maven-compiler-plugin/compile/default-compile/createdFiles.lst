@@ -1,0 +1,6 @@
+com\ghazouli\springbatch\ExamResultJobListener.class
+com\ghazouli\sprinbatch\model\ExamResult.class
+com\ghazouli\springbatch\ExamResultItemProcessor.class
+com\ghazouli\springbatch\LocalDateAdapter.class
+com\ghazouli\springbatch\ExamResultItemPreparedStatementSetter.class
+com\aghazouli\App.class
